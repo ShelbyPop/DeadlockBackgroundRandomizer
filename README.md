@@ -2,6 +2,13 @@
 
 I tried to make a script that made the customization of the lobby background as similar to wallpaper engine as possible.
 
+## Contents:
+- [How to compile .exe](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/edit/main/README.md#how-to-compile-exe)
+- [Adding Additional Backgrounds](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/edit/main/README.md#adding-additional-backgrounds)
+- [Automating Script like Wallpaper Engine](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/edit/main/README.md#automating-the-launch-of-the-script-similar-to-wallpaper-engine)
+
+
+
 ## How to compile .exe
 
 Install Latest version of python at https://www.python.org/downloads/
@@ -36,7 +43,7 @@ NOTE: Do not delete the 'ORIGINAL, DO NOT DELETE', it includes the base deadlock
 
 When putting your videos, name the folder whatever, but make sure that the file within the folder has the filename 'menu_streets_loop2.webm' or else the game will *not* use the file.
 
-## Automating the launch of the script, similar to Wallpaper Engine
+## Automating Script like Wallpaper Engine
 
 First, install the pythonw package. This package allows running of pythonscripts without opening terminal, so it doesn't alt-tab you from the middle of a game.
 
