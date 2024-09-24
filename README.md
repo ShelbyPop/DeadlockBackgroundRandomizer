@@ -74,7 +74,7 @@ Go to the 'Actions' Tab, click "New...", and copy and paste the pythonw.exe file
 ![image](https://github.com/user-attachments/assets/7a727fee-462e-44fb-a1da-c6feb9b530a8)
 
 - For 'Add arguments' just add "BackgroundRandomizer.py" 
-- For 'Start in', add the file path for the DeadlockBackgroundRandomizer_Pub folder location.
+- For 'Start in', add the file path for the DeadlockBackgroundRandomizer-main folder location.
 
 
 --- 
