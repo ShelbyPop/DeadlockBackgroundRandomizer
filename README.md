@@ -30,7 +30,7 @@ You should see three included folders, 'GogetaBlue', 'KITABOCCHIPANIC', 'MikuShr
 ![image](https://github.com/user-attachments/assets/906869f9-430c-49f6-a08a-2ce1a85ecce7)
 
 
-You may add any videos you wish, even .mp4s, just know that there won't be any sound, until me or someone else figures out how to do this on a file-per-file basis, or to work with the script.
+You may add any folders of videos you wish, even .mp4s, just know that there won't be any sound, until me or someone else figures out how to do this on a file-per-file basis, or to work with the script.
 
 NOTE: Do not delete the 'ORIGINAL, DO NOT DELETE', it includes the base deadlock lobby file and is used as a backup should something fail.
 
@@ -58,9 +58,10 @@ Next, right click on pythonw.exe, and select 'copy as path'. Keep this to your c
 Click on 'Create Task...'
 ![image](https://github.com/user-attachments/assets/92d30e57-5c9b-4bed-a215-44a731330d7a)
 
-Type whatever you want for the name and description, I have everything as default. "Run with highest privileges" shouldn't be necessary, but may vary on the system.
+Type whatever you want for the name and description, I have mostly everything as default. "Run with highest privileges" shouldn't be necessary, but may vary on the system.
 
-![image](https://github.com/user-attachments/assets/f1355c48-6cfa-4f6e-af5c-a3263ecb62d3)
+![image](https://github.com/user-attachments/assets/0a61ebaf-1199-4a0f-9b3d-a7ba42a63098)
+
 
 Go to the 'Triggers' tab, and click "New...", and use the settings as follows.
 NOTE: Your start date and time will differ, this is fine, set the time for whenever you want the program to run for the first time. Since we're not done setting up, set it for something like 5 minutes in the future.
@@ -75,9 +76,12 @@ Go to the 'Actions' Tab, click "New...", and copy and paste the pythonw.exe file
 - For 'Add arguments' just add "BackgroundRandomizer.py" 
 - For 'Start in', add the file path for the DeadlockBackgroundRandomizer_Pub folder location.
 
+
 --- 
 
 And you're done! Please DM me on discord @shelby.uwu or in the channel https://discord.com/channels/1231286446472691825/1284190624563724411 where @HappyAnton3 made the initial tutorial. 
+
+I should note, the program will not run if you're in lobby, but if you want to quick shuffle it, just go into sandbox, launch the .exe, and return back to lobby. It may pick the same background as you previously had, so just repeat if you want a different one.
 
 Happy Shuffling!
 
