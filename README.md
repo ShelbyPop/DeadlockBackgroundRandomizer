@@ -79,7 +79,7 @@ Also, don't forget to check 'enabled'.
 
 Go to the 'Actions' Tab, click "New...", and copy and paste the pythonw.exe file path from before into the 'program/script' option as shown:
 
-![image](https://github.com/user-attachments/assets/7a727fee-462e-44fb-a1da-c6feb9b530a8)
+![image](https://github.com/user-attachments/assets/8dfd8bb5-6a81-400d-a11b-21e0625460c1)
 
 - For 'Add arguments' just add "BackgroundRandomizer.py" 
 - For 'Start in', add the file path for the DeadlockBackgroundRandomizer-main folder location.
