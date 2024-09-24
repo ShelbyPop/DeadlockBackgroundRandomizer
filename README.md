@@ -3,9 +3,10 @@
 I tried to make a script that made the customization of the lobby background as similar to wallpaper engine as possible.
 
 ## Contents:
-- [How to compile .exe](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/edit/main/README.md#how-to-compile-exe)
-- [Adding Additional Backgrounds](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/edit/main/README.md#adding-additional-backgrounds)
-- [Automating Script like Wallpaper Engine](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/edit/main/README.md#automating-the-launch-of-the-script-similar-to-wallpaper-engine)
+- [How to compile .exe](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/tree/main?tab=readme-ov-file#how-to-compile-exe)
+- [Adding Additional Backgrounds](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/tree/main?tab=readme-ov-file#adding-additional-backgrounds)
+- [Automating Script like Wallpaper Engine](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/tree/main?tab=readme-ov-file#automating-script-like-wallpaper-engine)
+  - [Open Task Scheduler](https://github.com/ShelbyPop/DeadlockBackgroundRandomizer/tree/main?tab=readme-ov-file#open-task-scheduler)
 
 
 
